@@ -1,0 +1,15 @@
+{
+    "name": "rusdteam/php-js",
+    "authors": [
+        {
+            "name": "Danilatorsu",
+            "email": "rusdteam@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Rusdteam\\": "src/"
+        }
+    },
+    "require": {}
+}
